@@ -1,6 +1,6 @@
 # APR (Advanced Pattern Recognition) - CS502
 
-## Assignment Submissions
+Assignment Submissions
 
-## Jatin Singla
-## 2201CS33
+Jatin Singla
+2201CS33
